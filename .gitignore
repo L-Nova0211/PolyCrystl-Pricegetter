@@ -1,0 +1,16 @@
+# System
+.DS_Store
+.vscode
+
+# Folders
+/node_modules/
+/build
+**/artifacts
+
+# Buidler files
+cache
+artifacts
+
+#Environment Variables
+.env
+.env.*
